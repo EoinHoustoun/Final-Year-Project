@@ -78,5 +78,8 @@ This project explores different validation strategies in predictive modelling, s
 
 ---
 
+<img src="docs/assets/table2.png" width="500"/>
+<img src="docs/assets/transfers.png" width="500"/>
+
 
 
