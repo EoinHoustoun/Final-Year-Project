@@ -2,7 +2,7 @@
 
 This project explores different validation strategies in predictive modelling, specifically applied to a case study: forecasting football players' transfer fees. By comparing validation methods such as traditional cross-validation, random splitting, and season-based temporal validation, the project aims to highlight how validation procedures significantly impact model evaluation and real-world predictive performance.
 
-<img src="docs/assets/AI_CHEF_ROBOT copy.png" width="300"/>
+<img src="docs/assets/cover.png" width="300"/>
 
 ---
 
