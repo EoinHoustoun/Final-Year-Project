@@ -16,7 +16,10 @@ This project explores different validation strategies in predictive modelling, s
   - **Season-based temporal validation**
 - Evaluate the impact of validation procedures on model performance, stability, and real-world generalisability.
 
+<img src="docs/assets/table1.png" width="500"/>
+
 ---
+
 
 ## Dataset
 
@@ -48,6 +51,11 @@ This project explores different validation strategies in predictive modelling, s
 - **Monte Carlo Cross-Validation**
 - **Bootstrapping**
 - **Temporal Validation** (season-by-season splits to simulate real-world prediction scenarios)
+
+<img src="docs/assets/int_val.png" width="500"/>
+<img src="docs/assets/ext_val.png" width="500"/>
+<img src="docs/assets/int_ext_val.png" width="500"/>
+
 
 ### Evaluation Metrics:
 
