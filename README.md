@@ -63,6 +63,9 @@ This project explores different validation strategies in predictive modelling, s
 - Mean Absolute Error (MAE)
 - Coefficient of Determination ($R^2$)
 
+<img src="docs/assets/rmse.png" width="500"/>
+<img src="docs/assets/lm.png" width="500"/>
+
 ---
 
 ## Key Findings
